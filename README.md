@@ -1,1 +1,3 @@
-# Projeto_WhatsApp_Firefox
+# Projeto_WhatsApp
+
+## Projeto para desenvolvimento de automação WhatsApp utilizando Selenium
